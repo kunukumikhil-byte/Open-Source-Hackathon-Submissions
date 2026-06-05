@@ -3,49 +3,62 @@
 ## Participant Details
 
 **Full Name:**  
-<!-- Write your full name -->
+KUNUKU MIKHIL SRI SAI
 
 **GitHub Username:**  
-<!-- Write your GitHub username -->
+Kunukumikhil-byte
 
 **Team Name:**  
-<!-- Write your team name -->
+PIXEL HACK
 
 **College/University:**  
-<!-- Write your college/university name -->
+SRM UNIVERSITY AP
 
 ---
 
 ## Project Details
 
-**Project Title:**  
-<!-- Write your project/idea title -->
+**Project Title:**
+MuscleMind AI
 
-**Project Description:**  
-<!-- Explain what your project does, what problem it solves, and why it matters -->
+**Project Description:**
+MuscleMind AI is an AI-powered fitness assistant that helps users generate personalized workout plans, diet plans, track fitness progress, and interact with an intelligent fitness chatbot.
 
-**Tech Stack Used:**  
-<!-- Example: Next.js, Node.js, MongoDB, Supabase, Tailwind CSS, Python, etc. -->
+The platform solves the problem of expensive fitness coaching by providing AI-generated workout and diet recommendations, fitness guidance, and progress tracking in one platform.
 
-**GitHub Repository Link:**  
-<!-- Add your public project repository link -->
+Key features include:
 
-**Live Demo Link:**  
-<!-- Add deployed link if available -->
+* AI Workout Generator
+* AI Diet Planner
+* Fitness AI Chatbot
+* Chat Memory Support
+* Progress Tracker
+* Login/Register Authentication
+* Google Login
+* Mobile Responsive UI
 
-**Presentation / Demo Video Link:**  
-<!-- Optional but recommended -->
+**Tech Stack Used:**
+Python, Flask, SQLite, HTML, CSS, JavaScript, Groq API, PythonAnywhere
+
+**GitHub Repository Link:**
+https://github.com/kunukumikhil-byte/MuscleMind-AI
+
+**Live Demo Link:**
+https://muscelmind.pythonanywhere.com
+
+**Presentation / Demo Video Link:**
+https://drive.google.com/file/d/10N-StsbMflzwsdobVtpVqoCmAEARqYdC/view?usp=sharing
 
 ---
 
 ## Open Source Readiness
 
-- [ ] My project is public on GitHub
-- [ ] My repository has a proper README.md
-- [ ] I have added setup/installation instructions
-- [ ] I have added screenshots/demo where possible
-- [ ] I have added a license file
-- [ ] My project is original and built/updated during the hackathon period
+* [x] My project is public on GitHub
+* [x] My repository has a proper README.md
+* [x] I have added setup/installation instructions
+* [x] I have added screenshots/demo where possible
+* [ ] I have added a license file
+* [x] My project is original and built/updated during the hackathon period
 
 ---
 
@@ -53,19 +66,20 @@
 
 Please complete these before submitting:
 
-- [ ] I have starred the Memori Labs GitHub repository  
+* [ ] I have starred the Memori Labs GitHub repository
   https://github.com/MemoriLabs/Memori
 
-- [ ] I have followed Memori Labs on LinkedIn  
+* [ ] I have followed Memori Labs on LinkedIn
   https://www.linkedin.com/company/memorilabs/
 
-- [ ] I have followed Memori Labs on X  
+* [ ] I have followed Memori Labs on X
   https://x.com/memorilab
 
-- [ ] I have checked Memori Labs social links  
+* [ ] I have checked Memori Labs social links
   https://linktr.ee/memorilabs
 
 ---
+
 
 ## ID Card Verification
 
